@@ -4,6 +4,8 @@
 /Intermediate
 /Saved
 /Build
+Saved/
+Intermediate/
 *.suo
 *.user
 *.userprefs
